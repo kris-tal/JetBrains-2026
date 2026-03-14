@@ -1,0 +1,1 @@
+This repository contains my solutions to JetBrains recruitment tasks, 2026.
